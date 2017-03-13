@@ -1,0 +1,29 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "this is a pwa demo",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purelite/pwa.git"
+  },
+  "keywords": [
+    "pwa",
+    "demo"
+  ],
+  "author": "Purelite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purelite/pwa/issues"
+  },
+  "homepage": "https://github.com/Purelite/pwa#readme",
+  "devDependencies": {
+    "sw-precache": "^5.0.0"
+  },
+  "dependencies": {
+    "sw-toolbox": "^3.6.0"
+  }
+}

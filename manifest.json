@@ -1,0 +1,22 @@
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-03-12 22:01:22
+ * @version $Id$
+ */
+
+{
+  "name": "Minimal app to try PWA",
+  "short_name": "Minimal PWA",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#8888ff",
+  "background_color": "#aaaaff",
+  "icons": [
+    {
+      "src": "e.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
